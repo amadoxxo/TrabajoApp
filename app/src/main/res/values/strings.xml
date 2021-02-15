@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PruebaTrabajador</string>
+    <string name="titulo">Sueldo del trabajador</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etApellido">Apellido</string>
+    <string name="etSueldo">Sueldo</string>
+    <string name="etHoras">Horas extras</string>
+    <string name="etFechaNacimiento">Fecha nacimiento</string>
+    <string name="etFechasIngreso">Fecha ingreso</string>
+</resources>
